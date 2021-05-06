@@ -16,3 +16,6 @@ Steps to follow:
 7.Doctor verifies by clicking "Ok" on gui and can edit the prescription if any modification is needed.If the doctor is unavailable then medicine is directly sent to patient after waiting a particular time.
 8.finally patient will receive prescription along with a unique code and location of the nearest medical store.The same prescription and unique code is sent to medical store as well.
 9.patient can collect medicines from the medical store by showing unique code.
+
+
+Youtube video link showing demo of the project - https://www.youtube.com/watch?v=cS4g502mEi4
